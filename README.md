@@ -7,7 +7,8 @@ everything is automanted end to end .
 # PREREQUISITE:
 ## Running Locally
   - user must have python3 installed 
-  - AWS access_key and secret_access_key 
+  - AWS **access_key and secret_access_key** 
+  - aws set of permission (create instances , create key_pair, create security group )
  you can make use of **aws configure** command to set a default aws credential in your local 
  
  ## Download Dependencies
