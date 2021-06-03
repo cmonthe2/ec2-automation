@@ -25,12 +25,19 @@ change the permision to the file **ec2_script.py** to make it executable
 - **chmod +x ec2_script.py**
 then run the program
 - $ ./**ec2_script.py**
+
 /Users/user/Desktop/ec2-automation/lookup.yaml
+
 Successfully created Volume! vol-0d0a5be8a551191d0
+
 Volume is available for use 
+
 security-group ID: sg-0516174162e571a77
+
 ec2_instance_Id: i-0c37087550c224fc0
+
 instance in running state
+
 instance is provisioning ..... 
 
 ##post-run step
