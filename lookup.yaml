@@ -14,7 +14,7 @@
         type: ext4
         mount: /
       - device2: /dev/xvdf
-        size_gb2: 15
+        size_gb2: 100
         type2: xfs
         mount2: /data
     users:
