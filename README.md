@@ -21,7 +21,7 @@ Pretending to blow things up
 
 change the permision to the file **ec2_script.py** to make it executable 
 
-- chmod +x **ec2_script.py**
+- **chmod +x ec2_script.py**
 then run the program
 - $ ./**ec2_script.py**
 /Users/user/Desktop/ec2-automation/lookup.yaml
@@ -37,7 +37,7 @@ after the program successfully run , it will generate a file **key-pair** file t
 ssh-key needed to connect to your ec2 instance for all users.
 
 ###NOTE:
-make sure to change the key permission to read only before using it : example : chmod 400 my-test-key.pem
+make sure to change the key permission to read only before using it : example : **chmod 400 my-test-key.pem**
 
 now you can ssh to you ec2-insatnce 
 
