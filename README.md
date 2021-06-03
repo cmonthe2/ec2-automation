@@ -24,7 +24,8 @@ change the permision to the file **ec2_script.py** to make it executable
 
 - **chmod +x ec2_script.py**
 then run the program
-- $ ./**ec2_script.py**
+
+$ ./**ec2_script.py**
 
 /Users/user/Desktop/ec2-automation/lookup.yaml
 
