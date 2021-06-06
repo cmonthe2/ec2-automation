@@ -46,7 +46,8 @@ after the program successfully run , it will generate a file **key-pair** file t
 ssh-key needed to connect to your ec2 instance for all users.
 
 ###NOTE:
-make sure to change the key permission to read only before using it : example : **chmod 400 my-test-key.pem**
+make sure to change the key permission to read only before using it : 
+example : **chmod 400 my-test-key.pem**
 
 now you can ssh to you ec2-insatnce from different users : **ec2-user** , **user1** , **user2** 
 
